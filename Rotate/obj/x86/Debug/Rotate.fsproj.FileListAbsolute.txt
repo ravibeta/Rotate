@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\4\Rotate\Rotate\bin\Debug\Rotate.XML
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\4\Rotate\Rotate\bin\Debug\Rotate.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\4\Rotate\Rotate\bin\Debug\Rotate.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\4\Rotate\Rotate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\4\Rotate\Rotate\obj\x86\Debug\Rotate.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\4\Rotate\Rotate\obj\x86\Debug\Rotate.pdb
